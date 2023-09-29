@@ -5,7 +5,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 .justify-content-end {
-    margin-left: 43rem;
+    margin-left: 42rem;
 }
 .nav-link {
     color: white;
@@ -37,7 +37,7 @@ h5 {
     background-color: #073642;
     border-color: white;
     margin-bottom: 1rem;
-    margin-right: 2rem;
+    margin-right: 5rem;
 }
 .card-img-top {
     margin-top: 1rem;
